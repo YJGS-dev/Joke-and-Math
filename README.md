@@ -34,5 +34,5 @@ Start the server
 
 ## Documentation
 
-[Documentation](http://localhost:8000/docs#/)
+http://localhost:8000/docs
 
