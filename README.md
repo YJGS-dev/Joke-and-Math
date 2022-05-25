@@ -10,13 +10,13 @@ This app is a small implementation of using fastapi.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/YJGS-dev/Joke-and-Math.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Joke-and-Math
 ```
 
 Install dependencies
